@@ -2,11 +2,6 @@
 It is a functional design clone of Airbnb website built using reactjs and tailwind CSS to make it look attractive It is just a concept of Airbnb website.
 <br><br>
 It is responsive on every screen devices :)
-<hr>
-
-## Working Web App can be found here
-
-https://airbnb-clone-react-web.vercel.app/
 
 ## Tech Stack used is
 
